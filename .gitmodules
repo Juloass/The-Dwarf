@@ -1,0 +1,6 @@
+[submodule "TheDwarf-I"]
+	path = TheDwarf-I
+	url = https://github.com/Juloass/TheDwarf-I
+[submodule "TheDwarf-II"]
+	path = TheDwarf-II
+	url = https://github.com/Juloass/TheDwarf-II
